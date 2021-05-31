@@ -1,0 +1,21 @@
+{
+    "instructor":
+        {
+            "firstName": "Olexander",
+            "lastName": "Michailovich",
+            "experience": 12.0,
+            "rate": 4.4
+        }
+}
+
+
+
+{
+    "car":
+        {
+            "carId": 1,
+            "carName": "Peugeot",
+            "year": 2001,
+            "number": "4575" 
+        }
+}
